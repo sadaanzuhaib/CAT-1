@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// the core part
 int main() {
     int n, i;
     int fact = 1;
@@ -13,5 +13,5 @@ int main() {
 
     printf("Factorial = %d", fact);
 
-    return 0;
+    return 100;
 }
